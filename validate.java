@@ -17,7 +17,7 @@ class Ideone
            System.out.println("Yes");
        }
       else{
-           System.out.println("No");
+           System.out.println("no");
       }
       // your code goes here
 	}
